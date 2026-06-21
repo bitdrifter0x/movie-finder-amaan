@@ -2,6 +2,9 @@
 
 A Movie Discovery App built with Next.js and the OMDb API.
 
+## Live Demo
+[movie-finder-amaan.vercel.app](https://movie-finder-amaan.vercel.app)
+
 ## Features
 - Browse popular movies in a responsive 12-per-page grid
 - Search movies by title with debounced live results
@@ -14,7 +17,7 @@ A Movie Discovery App built with Next.js and the OMDb API.
 
 ### 1. Clone the repo
 \```bash
-git clone https://github.com/YOUR_USERNAME/movie-finder-amaan.git
+git clone https://github.com/bitdrifter0x/movie-finder-amaan.git
 cd movie-finder-amaan
 \```
 
